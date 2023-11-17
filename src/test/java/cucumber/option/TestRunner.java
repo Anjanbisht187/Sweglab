@@ -10,7 +10,9 @@ import io.cucumber.junit.CucumberOptions;
 //plugin="html:taget/reports/test.html" ,
 plugin="json:target/jsonReports/test.json")
 public class TestRunner {
-
+//monochrome
 }
 //dryRun
 //monoChrome
+// test automation
+//me
